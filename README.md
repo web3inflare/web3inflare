@@ -3,8 +3,7 @@
 
 
 Here are some ideas to get you started:
-
-
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 📫 How to reach me: web3inflare.root@proton.me
+- 📫 How to reach me: Mail: web3inflare.root@proton.me Twitter:web3inflare
+- Python/GO
