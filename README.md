@@ -1,9 +1,19 @@
-### Welcome to my GitHub! I'm web3inflare 👋
+![Web3inflare GitHub stats](https://github-readme-stats.vercel.app/api?username=web3inflare&show_icons=true&theme=radical)
 
+```python
+class Web3inFlare:
+    
+    def __init__(self):
+        self.Message = 'Hello Word!'
+        self.Username = 'Web3inFlare'
+        self.Feature = 'Web3,Security Research'
+        self.Languages = "Python,shell"
+        self.Learning = "Javascript,Rust,Golang"
+        self.Email = "Web3inflare.root@proton.me"
+        
+    def __str__(self):
+        return self.Username
 
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Mail: web3inflare.root@proton.me Twitter:web3inflare
-- Web3 Python Golang
+if __name__ == '__main__':
+    me = Web3inFlare()
+```
