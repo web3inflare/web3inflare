@@ -1,4 +1,4 @@
-![Web3inflare GitHub stats](https://github-readme-stats.vercel.app/api?username=web3inflare&show_icons=true&theme=radical)
+![web3inflare GitHub stats](https://github-readme-stats.vercel.app/api?username=web3inflare&show_icons=true&theme=radical)
 
 ```python
 class Web3inFlare:
