@@ -7,8 +7,8 @@ class Web3inFlare:
         self.Message = 'Hello Word!'
         self.Username = 'Web3inFlare'
         self.Feature = 'Web3,Security Research'
-        self.Languages = "Python,shell"
-        self.Learning = "Javascript,Rust,Golang"
+        self.Languages = "Python,shell,Javascript"
+        self.Learning = "flutter,Rust,Golang"
         self.Email = "Web3inflare.root@proton.me"
         
     def __str__(self):
